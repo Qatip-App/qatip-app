@@ -133,6 +133,7 @@ The application is live and available here:
 </p>
 
 <h3 align="center">Yunus YILDIZ</h3>
+<h4 align="center">Full Stack Developer | Productivity Enthusiast</h4>
 
  <p align="center">
      <i>Always learning. Always building.<br/>
