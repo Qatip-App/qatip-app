@@ -88,10 +88,6 @@ The platform empowers users to document candidate interactions, manage to-do lis
   <img src="https://img.shields.io/badge/Qatip%20App-on%20GitHub-181717?style=for-the-badge&logo=github" alt="Qatip App GitHub Badge" />
 </a>
 
-<br /><br />
-
-![Qatip is on GitHub](./screenshots/qatip-github-page.png)
-
 <br />
 
 🔗 [Visit the Qatip App GitHub Profile](https://github.com/Qatip-App/qatip-app)
@@ -128,13 +124,15 @@ The application is live and available here:
  Your feedback and encouragement help keep this project alive and growing. Thank you! 🙏
 
 
- ## 👤 Author
+## 👤 Author
 
- <p align="center">
-   <img src="[(https://github.com/yunusyildiz-ch/avatar)](https://github.com/yunusyildiz-ch/)" width="100" height="100" alt="Yunus YILDIZ" />
- </p>
+<p align="center">
+  <a href="https://github.com/yunusyildiz-ch" target="_blank">
+    <img src="https://github.com/yunusyildiz-ch.png" width="100" height="100" style="border-radius:50%" alt="Yunus YILDIZ" />
+  </a>
+</p>
 
- <h3 align="center">Yunus YILDIZ</h3>
+<h3 align="center">Yunus YILDIZ</h3>
 
  <p align="center">
      <i>Always learning. Always building.<br/>
